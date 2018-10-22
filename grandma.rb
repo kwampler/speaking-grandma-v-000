@@ -1,5 +1,6 @@
 def speak_to_grandma(phrase)
-  if phrase = ""
+  if phrase 
+else PHRASE
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
